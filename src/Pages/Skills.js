@@ -29,12 +29,12 @@ function Technologies() {
         <div className="inline-block mt-5">
           <h3 className="text-amber-300 font-semibold text-xl mt-1 ">
             Languages : 
-            <span className="text-blue-200 font-medium text-base">  Java, JavaScript, C/C++, Python</span>
+            <span className="text-blue-200 font-medium text-base">  C++, JavaScript, Python</span>
           </h3>
 
           <h3 className="text-amber-300 font-semibold text-xl mt-1">
           Frameworks : 
-            <span className="text-blue-200 font-medium text-base"> ReactJs, Node.js, ExpressJs, Material-UI</span>
+            <span className="text-blue-200 font-medium text-base"> ReactJs, Node.js, ExpressJs</span>
           </h3>
 
           <h3 className="text-amber-300 font-semibold text-xl mt-1">

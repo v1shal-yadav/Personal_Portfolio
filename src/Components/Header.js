@@ -62,8 +62,8 @@ function Header() {
               Contact
             </NavLink>
           </li>
-{/* //transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 ...} */}
-          <li className="hover:translate-y-0 bg-teal-500 w-auto inline-block hover:scale-110  px-1 border-2 rounded-xl  text-black hover:bg-pink-600 duration-300 ">
+      {/* //transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 ...} */}
+          <li className="hover:translate-y-0 bg-indigo-500 w-auto inline-block hover:scale-110  px-1 border-2 rounded-xl  text-black hover:bg-red-300 duration-300 ">
             <NavLink to="/resume" onClick={toggleClass}>
             <Button
             onClick={() => {

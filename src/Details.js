@@ -83,7 +83,7 @@ export const workDetails = [
 export const eduDetails = [
   {
     Position: "Bachelor of Technology(B.Tech) in Electronics & Communication Engineering",
-    Company: `Bundelkhand Institute of Engineering and Technology, Jhansi`,
+    Company: `Bundelkhand Institute of Engineering & Technology, Jhansi`,
     Location: "Jhansi, Uttar Pradesh, India",
     Duration: "November 2020 - May 2024",
   },
