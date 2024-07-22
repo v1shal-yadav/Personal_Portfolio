@@ -61,10 +61,9 @@ function Home() {
   return (
     <main className=" justify-center items-center md:flex lg:flex xl:flex 2xl:flex  ">
       
-      <div className="ml-10 max-w-xs sm:ml-20 flex justify-left items-center 2xl:w-1/2  sm:w-1/7 md:w-1/4 md:mt-20 " >
-        <img ref={myimageref} className="" src={img} alt="Vishal Yadav" />
+      <div className="ml-10 max-w-xs sm:ml-20 flex justify-left items-center 2xl:w-1/2 sm:w-1/7 md:w-1/4 md:mt-20">
+          <img ref={myimageref} className="rounded-lg" src={img} alt="Vishal Yadav" />
       </div>
-
 
       <div className="ml-10 md:mt-20 mt-10 ">
         <h1

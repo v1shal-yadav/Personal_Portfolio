@@ -57,18 +57,18 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Developer Intern",
-    Company: `Foss Freaks Pvt. Ltd.`,
-    Location: "Remote",
-    Type: "Internship",
-    Duration: "June 2023 - Aug 2023",
-  },
-  {
     Position: "Web Developer Intern",
     Company: `Upskill Valley`,
     Location: "Remote",
     Type: "Internship",
-    Duration: "Jan 2023 - March 2023",
+    Duration: "Sep 2023 - Nov 2023",
+  },
+  {
+    Position: "Problem Setter Intern",
+    Company: `iMochaWorkds`,
+    Location: "Remote",
+    Type: "Internship",
+    Duration: "Mar 2023 - Jun 2023",
   },
   // {
   //   Position: "Teaching Assistant",
